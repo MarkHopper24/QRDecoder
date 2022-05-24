@@ -53,15 +53,15 @@ This software would not have been possible without the use of the following tool
 - [Python](https://www.python.org/)
 - [Windows Snipping Tool](https://www.microsoft.com/store/productId/9MZ95KL8MR0L)
 - [Pillow](https://github.com/python-pillow/Pillow/) (Image manipulation)
-- [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)) (QR Decoding)
+- [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) (QR Decoding)
 - [sv_ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) (Theme)
-- [@amitmerchant1990](https://github.com/amitmerchant1990/electron-markdownify#readme) (readme insperation)
+- [@amitmerchant1990](https://github.com/amitmerchant1990/electron-markdownify#readme) (readme inspiration)
 - [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) (compiling)
 - [Inno Setup](https://jrsoftware.org/isinfo.php) (packaging)
 
 ## License
 
-MIT
+[MIT](https://github.com/MarkHopper24/QRDecoder/blob/main/LICENSE)
 
 ---
 
