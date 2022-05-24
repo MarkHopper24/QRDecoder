@@ -31,24 +31,17 @@ You can [download](downloadURL) the latest installable version of QRDecoder for 
 
 If using the managed installer, all dependencies are included. If running manually, you'll need to install/import the following Python modules:
 
+ ```python
 from PIL import Image
-
 from subprocess import Popen
-
 from PIL import ImageGrab
-
 from pyzbar.pyzbar import decode
-
 import os
-
 import time
-
 import tkinter as tk
-
 import sv_ttk
-
 import psutil
-
+ ```
 
 ## Emailware
 
