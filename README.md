@@ -1,11 +1,10 @@
 <h1 align="center">
   <br>
-  <br>
   QRDecoder
   <br>
 </h1>
 
-<h4 align="center">A lightweight, on-screen QR decoding tool for Windows. Built on top of Python and leverages the Windows Snipping Tool.</h4>
+<h4 align="center">A lightweight, on-screen QR decoding tool for Windows. Built on top of Python leveraging the Windows Snipping Tool.</h4>
 
 <p align="center">
   <a href="#overview">Overview</a> •
