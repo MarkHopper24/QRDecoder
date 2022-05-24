@@ -17,7 +17,7 @@
 
 ## Overview
 
-QRDecoder is a light weight, on-screen QR decoding tool for Windows. It's built on top of Python and leverages the the Windows Snipping Tool/Snip and Sketch app for on-screen image selection. Simply install, launch, and select to decode QR images live on-screen. 
+QRDecoder is a lightweight, on-screen QR code decoding tool for Windows. It's built on top of Python and leverages the the Windows Snipping Tool/Snip & Sketch app for on-screen image selection. Simply install, launch, and crop to decode QR code images that are anywhere on your screen. 
 
 This project is a work in process. Pull-requests, suggestions, fixes, and feature requests are welcome.
 
