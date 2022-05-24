@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   QRDecoder
   <br>
 </h1>
@@ -13,7 +12,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](GIF URL)
+![screenshot](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoder.gif?raw=true)
 
 ## Overview
 
@@ -24,7 +23,7 @@ This project is a work in process. Pull-requests, suggestions, fixes, and featur
 
 ## Usage
 
-You can [download](downloadURL) the latest installable version of QRDecoder for Windows. I've also included the following resources if you want to modify, compile, and package the application yourself:
+You can [download](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoderSetup.exe) the latest installable version of QRDecoder for Windows. I've also included the following resources if you want to modify, compile, and package the application yourself:
 
 * QRDecoder.py (standalone script)
 * setup.py (for use with Cx_Freeze)
