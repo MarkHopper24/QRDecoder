@@ -56,7 +56,7 @@ This software would not have been possible without the use of the following tool
 - [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)) (QR Decoding)
 - [sv_ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) (Theme)
 - [@amitmerchant1990](https://github.com/amitmerchant1990/electron-markdownify#readme) (readme insperation)
-- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) (compling)
+- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) (compiling)
 - [Inno Setup](https://jrsoftware.org/isinfo.php) (packaging)
 
 ## License
