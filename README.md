@@ -23,7 +23,9 @@ This project is a work in progress. Pull-requests, suggestions, fixes, and featu
 
 ## Usage
 
-You can [download](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoderSetup.exe) the latest installable version of QRDecoder for Windows. I've also included the following resources if you want to modify, compile, and package the application yourself:
+You can download and install the QRDecoder directly from GitHub [HERE](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoderSetup.exe). Alternatively, you can install from the Microsoft Store [HERE](https://apps.microsoft.com/store/detail/qrdecoder/XPDLKS1X6WLBKJ?hl=en-us&gl=US).
+
+I've also included the following resources if you want to modify, compile, and package the application yourself:
 
 * QRDecoder.py (standalone script)
 * setup.py (for use with Cx_Freeze)
