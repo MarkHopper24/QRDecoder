@@ -12,7 +12,7 @@ if sys.platform == "win32":
 
 setup(
     name="QR Decoder",
-    version="1.0",
+    version="1.1",
     options={"build_exe": build_exe_options},
     
     executables=[Executable(script='QRDecoder.py', base = base, icon='Logo.ico')]
