@@ -12,7 +12,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoder.gif?raw=true)
+![screenshot](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoder1.1.gif?raw=true)
 
 ## Overview
 
