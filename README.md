@@ -1,7 +1,10 @@
 <h1 align="center">
-  QRDecoder
+  <a href="https://apps.microsoft.com/store/detail/qrdecoder/XPDLKS1X6WLBKJ?hl=en-us&gl=US"><img src="https://raw.githubusercontent.com/MarkHopper24/QRDecoder/main/Logo.png" alt="QRDecoder" width="150"></a><br>
   <br>
+  QRDecoder
+
 </h1>
+
 
 <h4 align="center">A lightweight, on-screen QR decoding tool for Windows. Built on top of Python leveraging the Windows Snipping Tool.</h4>
 
