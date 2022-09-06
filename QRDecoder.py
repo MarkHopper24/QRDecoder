@@ -125,7 +125,7 @@ def checkForUpdate():
     global QRContents
     field.configure(state="normal")
     field.delete(1.0, tk.END)
-    currentVersion = "1.1"
+    currentVersion = "1.2"
     try:
         response = requests.get(
             "https://api.github.com/repos/MarkHopper24/QRDecoder/releases/latest")
