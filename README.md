@@ -6,7 +6,7 @@
 </h1>
 
 
-<h4 align="center">A lightweight, on-screen QR decoding tool for Windows. Built on top of Python leveraging the Windows Snipping Tool.</h4>
+<h4 align="center">A lightweight, on-screen QR code decoding tool for Windows. Built on top of Python leveraging the Windows Snipping Tool.</h4>
 
 <p align="center">
   <a href="#overview">Overview</a> •
@@ -15,7 +15,13 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/MarkHopper24/QRDecoder/blob/main/qrdecoder1.2.gif?raw=true)
+<p align="center">
+<img src = https://raw.githubusercontent.com/MarkHopper24/QRDecoder/main/Screenshot.png>
+<br>
+<br>
+<img src = https://github.com/MarkHopper24/QRDecoder/blob/main/qrdecoder1.2.gif>
+</p>
+
 
 ## Overview
 
