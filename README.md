@@ -33,20 +33,6 @@ I've also included the following resources if you want to modify, compile, and p
 * QRDecoder.py (standalone script)
 * setup.py (for use with Cx_Freeze)
 
-If using the managed installer, all dependencies are included. If running manually, you'll need to install/import the following Python modules:
-
- ```python
-from PIL import Image
-from subprocess import Popen
-from PIL import ImageGrab
-from pyzbar.pyzbar import decode
-import os
-import time
-import tkinter as tk
-import sv_ttk
-import psutil
- ```
-
 ## Emailware
 
 QRDecoder is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <mark.hopper24@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
