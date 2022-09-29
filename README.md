@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://apps.microsoft.com/store/detail/qrdecoder/XPDLKS1X6WLBKJ?hl=en-us&gl=US"><img src="https://raw.githubusercontent.com/MarkHopper24/QRDecoder/main/Logo.png" alt="QRDecoder" width="150"></a><br>
+  <a href="https://apps.microsoft.com/store/detail/qrdecoder/9N6262B4T5CN?hl=en-us&gl=us"><img src="https://raw.githubusercontent.com/MarkHopper24/QRDecoder/main/Logo.png" alt="QRDecoder" width="150"></a><br>
   <br>
   QRDecoder
 
@@ -32,7 +32,7 @@ This project is a work in progress. Pull-requests, suggestions, fixes, and featu
 
 ## Usage
 
-You can download and install the QRDecoder directly from GitHub [HERE](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoderSetup.exe). Alternatively, you can install from the Microsoft Store [HERE](https://apps.microsoft.com/store/detail/qrdecoder/XPDLKS1X6WLBKJ?hl=en-us&gl=US).
+You can download and install the QRDecoder directly from GitHub [HERE](https://github.com/MarkHopper24/QRDecoder/blob/main/QRDecoderSetup.exe). Alternatively, you can install from the Microsoft Store [HERE](https://apps.microsoft.com/store/detail/qrdecoder/9N6262B4T5CN?hl=en-us&gl=us).
 
 I've also included the following resources if you want to modify, compile, and package the application yourself:
 
