@@ -1,4 +1,4 @@
-Pillow==9.3.0
+Pillow==10.0.1
 pyzbar==0.1.9
 requests==2.31.0
 sv_ttk==1.0
