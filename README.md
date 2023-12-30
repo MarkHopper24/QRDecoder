@@ -1,3 +1,16 @@
+<h3 align="center">12/29/2023 QRDecoder Retirement: </h3>
+
+Hi all, I have decided to retire QRDecoder. For the last year, all of my barcode/QR code app development has been focused on barcodrod.io. barcodrod.io is an ad-free, open source Windows 10/11 app that offers the same functionality as QRDecoder, but with many more features and improvements. While Python was great for the limited feature scope of QRDecoder, barcodrod.io being written in C# and built on .NET comes with numerous development benefits for a native Windows application, allowing much more rapid feature development. Learn more here:
+
+Website: https://barcodrod.io <br>
+GitHub: https://github.com/MarkHopper24/barcodrod.io <br>
+Download it from GitHub or the Microsoft Store: https://download.bardcodrod.io <br>
+
+With that said, I will no longer update or support QRDecoder, including breaking and/or critical security fixes. The app and source code will remain available on GitHub for historical purposes and can be forked, referenced, and repurposed as needed under the MIT license but I recommend migrating to barcodrod.io for general usage as soon as possible. 
+
+Thank you for your support! QRDecoder has been a really fun learning project, and I hope you have enjoyed using it or learning along with me. 🙂
+
+<br><br>
 <h1 align="center">
   <a href="https://apps.microsoft.com/store/detail/qrdecoder/9N6262B4T5CN?hl=en-us&gl=us"><img src="https://raw.githubusercontent.com/MarkHopper24/QRDecoder/main/Logo.png" alt="QRDecoder" width="150"></a><br>
   <br>
